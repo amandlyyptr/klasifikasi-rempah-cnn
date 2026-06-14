@@ -1,0 +1,7 @@
+[server]
+# Hapus batasan ukuran upload file (default Streamlit = 200MB)
+# Nilai dalam MB — 10240 = 10 GB
+maxUploadSize = 10240
+
+# Nonaktifkan batas memori untuk file besar
+maxMessageSize = 10240

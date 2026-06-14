@@ -1,0 +1,9 @@
+venv/
+hasil_rempah/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.pkl
+*.zip
+*.csv
