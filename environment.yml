@@ -1,0 +1,15 @@
+name: streamlit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - streamlit==1.40.2
+      - tensorflow==2.15.1
+      - numpy
+      - pandas
+      - pillow
+      - scikit-learn
+      - matplotlib
+      - opencv-python-headless
